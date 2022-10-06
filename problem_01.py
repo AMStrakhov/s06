@@ -8,7 +8,7 @@ the input files multiplied by n (n — function argument) in format:
 <original number> * <n> = <result number>
 If a line is not a number, ignore it.
 
-Use arguments filepath_input, filepath_output to get paths to the files.
+Use arguments: filepath_input, filepath_output to get paths to the files.
 
 Examples:
 arguments:
